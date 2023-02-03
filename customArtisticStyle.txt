@@ -1,0 +1,17 @@
+--style=break
+--indent=spaces=2
+--indent-classes
+--indent-namespaces
+--indent-modifiers
+--attach-namespaces
+--add-braces
+--close-templates
+--indent-col1-comments
+--max-continuation-indent=#
+--break-blocks=all
+--attach-inlines
+--indent-labels
+--indent-switches
+--indent-namespaces 
+--pad-oper
+--pad-comma 
