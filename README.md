@@ -2,6 +2,8 @@
 
 ### Using Scheme
 $ cp custom-creator-dark.xml ~/.config/QtProject/qtcreator/styles
+Preferences -> Environment -> Theme -> Design Dark
+Preferences -> Text Editor -> Color Scheme -> custom creator dark
 
 ### Using Style
 1. Istall Beautifier: Home -> About Plugins -> C++ -> Beautifier
