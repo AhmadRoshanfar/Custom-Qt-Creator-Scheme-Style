@@ -3,9 +3,11 @@
 ### Using Scheme
 
 Linux:
-$ cp custom-creator-dark.xml ~/.config/QtProject/qtcreator/styles
+$ cp custom-creator-dark.xml ~/.config/QtProject/qtcreator/styles 
+---
 Windows path:
 %APPDATA%\QtProject\qtcreator\styles
+---
 Preferences -> Environment -> Theme -> Design Dark
 Preferences -> Text Editor -> Color Scheme -> custom creator dark
 
